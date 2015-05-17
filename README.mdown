@@ -6,7 +6,3 @@ http://lukapenger.eu
 ##License
 
 This code is distributed under the terms and conditions of the [MIT license](https://github.com/luka1995/LPC82x-Libraries/blob/master/LICENSE).
-
-##Change log
-
-A brief summary of each LPC82x Libraries release can be found on the [wiki](https://github.com/luka1995/LPC82x-Libraries/wiki/Change-log).
