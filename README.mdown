@@ -1,14 +1,12 @@
-#LPC17xx Libraries
+#LPC82x Libraries
 
 Created by Luka Penger
 http://lukapenger.eu
 
-http://lpprojects.eu
-
 ##License
 
-This code is distributed under the terms and conditions of the [MIT license](https://github.com/luka1995/LPC17xx-Libraries/blob/master/LICENSE).
+This code is distributed under the terms and conditions of the [MIT license](https://github.com/luka1995/LPC82x-Libraries/blob/master/LICENSE).
 
 ##Change log
 
-A brief summary of each LPC17xx Libraries release can be found on the [wiki](https://github.com/luka1995/LPC17xx-Libraries/wiki/Change-log).
+A brief summary of each LPC82x Libraries release can be found on the [wiki](https://github.com/luka1995/LPC82x-Libraries/wiki/Change-log).
